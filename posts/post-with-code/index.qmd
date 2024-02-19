@@ -1,13 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Test Post"
 date: "2024-02-19"
-categories: [news, code, analysis]
+categories: [tests]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+Test content.
