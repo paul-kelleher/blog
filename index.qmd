@@ -12,6 +12,7 @@ listing:
     sort: "date desc"
     categories: true
 page-layout: full
+toc: true
 toc-title: Year
 toc-location: right
 date-format: "MMMM D, YYYY"
