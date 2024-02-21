@@ -8,10 +8,6 @@ website:
     left: 
       - url: https://www.paulkelleher.net
         text: Back to main
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
 
 format:
   html:
