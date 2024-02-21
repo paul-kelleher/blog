@@ -10,9 +10,6 @@ website:
         text: Back to main
   sidebar:
     search: true
-    tools:
-      - icon: github
-        href: https://github.com/
 
 format:
   html:
