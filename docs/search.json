@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PK's blog",
+    "title": "Blog",
     "section": "",
-    "text": "Test Post\n\n\n\n\n\n\n\ntests\n\n\n\n\n\n\n\n\n\n\n\nFeb 19, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "tests\n\n\n\n\n\n\n\n\n\n\n\nFebruary 21, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -47,5 +47,12 @@
     "title": "Test Post",
     "section": "",
     "text": "This is a nested test post."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Blog",
+    "section": "",
+    "text": "tests\n\n\n\n\n\n\n\n\n\n\n\nFebruary 21, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]

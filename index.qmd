@@ -1,11 +1,22 @@
 ---
+title: "Blog"
+author: ""
+description: "Paul Kelleher's blog"
 listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+  - id: posts_2024
+    contents: "2024/**/index.qmd"
+    sort: "date desc"
+    categories: true
 page-layout: full
-title-block-banner: true
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+engine: knitr
+freeze: false
 ---
+## 2024
+
+:::{#posts_2024}
+:::
