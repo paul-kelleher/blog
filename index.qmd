@@ -1,7 +1,6 @@
 ---
-title: "Blog"
+title: "PK Blog"
 author: ""
-description: "Paul Kelleher's blog"
 listing:
   - id: posts_2024
     contents: "2024/**/index.qmd"
