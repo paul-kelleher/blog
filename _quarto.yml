@@ -17,9 +17,9 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    comments:
+      giscus:
+        repo: paul-kelleher/blog
+        category: Blog comments
 
 editor: visual
-
-comments:
-  giscus:
-    repo: paul-kelleher/blog
