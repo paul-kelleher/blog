@@ -1,8 +1,0 @@
----
-title: "Test Post"
-date: "2024-02-19"
-categories: [tests]
-image: "image.jpg"
----
-
-Test content.
