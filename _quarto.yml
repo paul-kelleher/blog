@@ -20,3 +20,6 @@ format:
 
 editor: visual
 
+comments:
+  giscus:
+    repo: paul-kelleher/blog
