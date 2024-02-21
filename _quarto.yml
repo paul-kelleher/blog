@@ -8,6 +8,11 @@ website:
     left: 
       - url: https://www.paulkelleher.net
         text: Back to main
+  sidebar:
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/
 
 format:
   html:

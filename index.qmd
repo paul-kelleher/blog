@@ -15,9 +15,15 @@ code-tools: false
 comments: false
 engine: knitr
 freeze: false
+sidebar: true
 ---
 
 ## 2024
 
 ::: {#posts_2024}
+:::
+
+## 2023
+
+::: {#posts_2023}
 :::

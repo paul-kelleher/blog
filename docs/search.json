@@ -61,5 +61,19 @@
     "title": "Test Post",
     "section": "",
     "text": "This is a second nested test post, dated 2/18/24."
+  },
+  {
+    "objectID": "2023/test-2023-post/index.html",
+    "href": "2023/test-2023-post/index.html",
+    "title": "Test Post",
+    "section": "",
+    "text": "This is dummy 2023 post."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Blog",
+    "section": "2023",
+    "text": "2023"
   }
 ]
