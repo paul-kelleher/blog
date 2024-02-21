@@ -1,7 +1,0 @@
----
-title: "Test Post"
-date: "2023-12-31"
-categories: [tests]
----
-
-This is dummy 2023 post.
