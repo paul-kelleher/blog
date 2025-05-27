@@ -15,5 +15,11 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
+    page-layout: article
+    fontsize: 1em
+    linestretch: 1.6
+    mainfont: "Source Sans Pro, sans-serif"
+    monofont: "Source Code Pro, monospace"
 
 editor: visual
