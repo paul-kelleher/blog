@@ -38,7 +38,9 @@ From what I can tell, Coase's invariance claim is never questioned in Battistoni
 
 # Coase 4 LPE?
 
-I am neither a scholar of law and economics nor a scholar of the progressive competitor discipline of law and political economy (LPE). So I freely admit that I know precious little about the impact Coase's 1960 paper had on the development of law and economics and on scholars affiliated with it. But this week I've read Coase's paper carefully twice, and I noticed something that I was surprised not to see mentioned in Battistoni's writing. It is something that seems only very rarely mentioned in the secondary literature on Coase, but which I think is worth flagging and pondering.^[An exception is @medema2009 [p. 118n31].]
+I am neither a scholar of law and economics nor a scholar of the progressive competitor discipline of law and political economy (LPE). So I freely admit that I know precious little about the impact Coase's 1960 paper had on the development of law and economics and on scholars affiliated with it. But this week I've read Coase's paper carefully twice, and I noticed something that I was surprised not to see mentioned in Battistoni's writing. It is something that seems only very rarely mentioned in the secondary literature on Coase, but which I think is worth flagging and pondering.[^1]
+
+[^1]: An exception is @medema2009 [p. 118n31].
 
 Relatively early in his paper, Coase writes:
 
