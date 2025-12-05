@@ -5,9 +5,18 @@ project:
 website:
   title: "PK blog"
   navbar:
-    left: 
-      - url: https://www.paulkelleher.net
-        text: Back to main
+    title: "J. Paul Kelleher"
+    left:
+      - text: About
+        href: https://paulkelleher.net
+      - text: Research
+        href: https://paulkelleher.net/research/
+      - text: Book
+        href: https://paulkelleher.net/book/
+      - text: Blog
+        href: /
+    right:
+      - icon: search
   sidebar:
     search: true
 
