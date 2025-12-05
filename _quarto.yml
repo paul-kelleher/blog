@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "PK's blog"
+  title: "PK blog"
   navbar:
     left: 
       - url: https://www.paulkelleher.net

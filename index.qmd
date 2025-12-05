@@ -26,4 +26,3 @@ sidebar: false
 
 ::: {#posts_2025}
 :::
-

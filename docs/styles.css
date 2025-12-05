@@ -36,6 +36,14 @@ h2 {
   display: inline-block;
 }
 
+.quarto-listing .listing-author {
+  display: none;
+}
+
+.quarto-listing .listing-date {
+  text-align: right;
+}
+
 /* Link styling */
 a {
   color: #0366d6;
