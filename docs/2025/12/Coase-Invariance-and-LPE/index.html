@@ -62,6 +62,9 @@ div.csl-indent {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-180c2da0a670722e004eef55ee384cc3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -256,15 +259,15 @@ window.Quarto = {
 <p>Howarth finds that when using Nordhaus’s standard parameterizations, the longrun stock of carbon dioxide in the atmosphere, as well as long run temperature increase, are invariant to the initial distribution of rights. This is Coasean invariance in the wild (or, if you like, in a wild model). Thus, regardless of whether the present generation is endowed with the right to pollute as much as it wants (what Howarth calls the “Pollution rights” scenario), or whether future generations are endowed with the right to be free of all pollution if they want (the “Climate rights” scenario), the amount that each generation will emit after intergenerational bargaining ceases will be the same.</p>
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
-<p><img src="Howarth1.png" class="img-fluid figure-img"></p>
-<figcaption class="margin-caption">A highlighted partial reproduction of Howarth’s Table 1</figcaption>
+<p><a href="Howarth1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="A highlighted partial reproduction of Howarth’s Table 1 (click to expand)"><img src="Howarth1.png" class="img-fluid figure-img" alt="A highlighted partial reproduction of Howarth’s Table 1 (click to expand)"></a></p>
+<figcaption class="margin-caption">A highlighted partial reproduction of Howarth’s Table 1 (click to expand)</figcaption>
 </figure>
 </div>
 <p>However, Coasean invariance disappears when the model is changed to reflect the possibility that climate change will be more harmful than (that vintage of) the DICE model assumed. When the model is programmed to treat a 3 degrees C increase in global mean temperature as being ten times worse for gross world output than the baseline DICE calibration, invariance no longer holds:</p>
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
-<p><img src="Howarth2.png" class="img-fluid figure-img"></p>
-<figcaption class="margin-caption">A highlighted partial reproduction of Howarth’s Table 2</figcaption>
+<p><a href="Howarth2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="A highlighted partial reproduction of Howarth’s Table 2 (click to expand)"><img src="Howarth2.png" class="img-fluid figure-img" alt="A highlighted partial reproduction of Howarth’s Table 2 (click to expand)"></a></p>
+<figcaption class="margin-caption">A highlighted partial reproduction of Howarth’s Table 2 (click to expand)</figcaption>
 </figure>
 </div>
 <p>In a “Climate rights” scenario, present-day polluters must pay future pollutees for each ton of CO₂ they wish to emit. Suppose they do this by paying into a trust fund that will offset the damages. The trust fund in turn increases the capital stock, which increases pre-damage future GDP. Higher future GDP means that future generations are wealthier, and since greater wealth leads to a greater valuing of environmental quality, future generations value it more highly in monetary terms. As a result, they charge higher prices to present polluters who would like to buy rights to emit. In Howarth’s “High Damage” setting, these forces conspire to radically lower both the pollution level and temperature increases in the Climate rights scenario as compared to the Pollution rights scenario.</p>
@@ -702,6 +705,38 @@ Medema, S. G. 2009. <em>The Hesitant Hand: Taming Self-Interest in the History o
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

@@ -32,6 +32,7 @@ format:
     linestretch: 1.6
     mainfont: "Source Sans Pro, sans-serif"
     monofont: "Source Code Pro, monospace"
+    lightbox: true 
 
 bibliography: /Users/jkelleher/Dropbox/Zotero_JSON_Library/MyLibrary.json
 csl: mis-quarterly-2.csl

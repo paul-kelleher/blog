@@ -3,6 +3,7 @@ title: "Coase, Invariance, and LPE"
 author: Paul Kelleher
 date: "2025-12-04"
 categories: [ethics, economics]
+
 ---
 
 There's an ongoing [symposium on the Law and Political Economy (LPE) Project's blog](https://lpeproject.org/symposia/free-gifts/) on Alyssa Battistoni's new book [*Free Gifts*](https://press.princeton.edu/books/hardcover/9780691263465/free-gifts?srsltid=AfmBOopoBnoOHxIyKJjYVcAOKfREEU1LqOLlkYC4JYaTSpMieKayw4t4). Both Battistoni's [opening piece](https://lpeproject.org/blog/in-the-shadow-of-commodification/), as well as Madison Condon's [piece](https://lpeproject.org/blog/is-climate-change-an-externality/), begin with Ronald Coase's 1960 paper, ["The Problem of Social Cost"](https://www.jstor.org/stable/724810). This piqued my interest because I recently gave a conference talk about the so-called "Coase Theorem" in which I was trying to correct an error that is common, and that lies at the heart of [a recent book](https://global.oup.com/academic/product/philosophical-foundations-of-climate-change-policy-9780197567982?cc=us&lang=en&) about climate change by moral and political philosopher Joseph Heath. Let me quickly state the error, and then return to Battistoni's discussion.
@@ -26,11 +27,11 @@ A very nice 2001 [paper](https://www.emerald.com/books/edited-volume/11417/chapt
 
 Howarth finds that when using Nordhaus's standard parameterizations, the longrun stock of carbon dioxide in the atmosphere, as well as long run temperature increase, are invariant to the initial distribution of rights. This is Coasean invariance in the wild (or, if you like, in a wild model). Thus, regardless of whether the present generation is endowed with the right to pollute as much as it wants (what Howarth calls the "Pollution rights" scenario), or whether future generations are endowed with the right to be free of all pollution if they want (the "Climate rights" scenario), the amount that each generation will emit after intergenerational bargaining ceases will be the same.
 
-![A highlighted partial reproduction of Howarth's Table 1](Howarth1.png)
+![A highlighted partial reproduction of Howarth's Table 1 (click to expand)](Howarth1.png)
 
 However, Coasean invariance disappears when the model is changed to reflect the possibility that climate change will be more harmful than (that vintage of) the DICE model assumed. When the model is programmed to treat a 3 degrees C increase in global mean temperature as being ten times worse for gross world output than the baseline DICE calibration, invariance no longer holds:
 
-![A highlighted partial reproduction of Howarth's Table 2](Howarth2.png)
+![A highlighted partial reproduction of Howarth's Table 2 (click to expand)](Howarth2.png)
 
 In a "Climate rights" scenario, present-day polluters must pay future pollutees for each ton of CO₂ they wish to emit. Suppose they do this by paying into a trust fund that will offset the damages. The trust fund in turn increases the capital stock, which increases pre-damage future GDP. Higher future GDP means that future generations are wealthier, and since greater wealth leads to a greater valuing of environmental quality, future generations value it more highly in monetary terms. As a result, they charge higher prices to present polluters who would like to buy rights to emit. In Howarth's "High Damage" setting, these forces conspire to radically lower both the pollution level and temperature increases in the Climate rights scenario as compared to the Pollution rights scenario.
 
