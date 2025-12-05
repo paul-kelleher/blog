@@ -17,6 +17,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    cap-location: margin
     reference-location: margin
     fontsize: 1.125em
     linestretch: 1.6
