@@ -7,14 +7,14 @@ website:
   navbar:
     title: "J. Paul Kelleher"
     left:
-      - text: About
-        href: https://paulkelleher.net
-      - text: Research
-        href: https://paulkelleher.net/research/
-      - text: Book
-        href: https://paulkelleher.net/sccbook/
-      - text: Blog
-        href: /
+      - href: https://paul-kelleher.github.io/
+        text: About
+      - href: https://paul-kelleher.github.io/research
+        text: Research
+      - href: https://paul-kelleher.github.io/sccbook
+        text: Book
+      - href: https://paul-kelleher.github.io/blog
+        text: Blog
     right:
       - icon: search
   sidebar:
@@ -35,5 +35,6 @@ format:
 
 bibliography: /Users/jkelleher/Dropbox/Zotero_JSON_Library/MyLibrary.json
 csl: mis-quarterly-2.csl
+
 
 editor: visual
