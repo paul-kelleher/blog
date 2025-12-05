@@ -17,9 +17,13 @@ format:
     css: styles.css
     toc: true
     page-layout: article
+    reference-location: margin
     fontsize: 1em
     linestretch: 1.6
     mainfont: "Source Sans Pro, sans-serif"
     monofont: "Source Code Pro, monospace"
+
+bibliography: /Users/jkelleher/Dropbox/Zotero_JSON_Library/MyLibrary.json
+csl: mis-quarterly-2.csl
 
 editor: visual

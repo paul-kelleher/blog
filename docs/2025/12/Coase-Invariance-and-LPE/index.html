@@ -22,7 +22,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 1em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -103,7 +123,7 @@ window.Quarto = {
 <link rel="stylesheet" href="../../../styles.css">
 </head>
 
-<body class="nav-sidebar floating nav-fixed quarto-light">
+<body class="nav-sidebar floating nav-fixed slimcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -167,7 +187,7 @@ window.Quarto = {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -236,10 +256,10 @@ window.Quarto = {
 <p>In a “Climate rights” scenario, present-day polluters must pay future pollutees for each ton of CO₂ they wish to emit. Suppose they do this by paying into a trust fund that will offset the damages. The trust fund in turn increases the capital stock, which increases pre-damage future GDP. Higher future GDP means that future generations are wealthier, and since greater wealth leads to a greater valuing of environmental quality, future generations value it more highly in monetary terms. As a result, they charge higher prices to present polluters who would like to buy rights to emit. In Howarth’s “High Damage” setting, these forces conspire to radically lower both the pollution level and temperature increases in the Climate rights scenario as compared to the Pollution rights scenario.</p>
 <p>From what I can tell, Coase’s invariance claim is never questioned in Battistoni’s book, and it is not questioned in Heath’s book either. Indeed, invariance underlies Heath’s central claim that one can rely on (Pareto) efficiency considerations alone to determine “whether or not to regulate, and if so how much” (p.&nbsp;202). Howarth’s analysis shows that, in at least some contexts, there is no single pollution level that is “the” efficient level, since the level that would result from frictionless bargaining is in part a function of how rights are initially allocated.</p>
 </section>
-<section id="coase-4-lpe" class="level1">
+<section id="coase-4-lpe" class="level1 page-columns page-full">
 <h1>Coase 4 LPE?</h1>
-<p>I am neither a scholar of law and economics nor a scholar of the progressive competitor discipline of law and political economy (LPE). So I freely admit that I know precious little about the impact Coase’s 1960 paper had on the development of law and economics and on scholars affiliated with it. But this week I’ve read Coase’s paper carefully twice, and I noticed something that I was surprised not to see mentioned in Battistoni’s writing. It is something that seems only very rarely mentioned in the secondary literature on Coase, but which I think is worth flagging and pondering.</p>
-<p>Relatively early in his paper, Coase writes:</p>
+<p>I am neither a scholar of law and economics nor a scholar of the progressive competitor discipline of law and political economy (LPE). So I freely admit that I know precious little about the impact Coase’s 1960 paper had on the development of law and economics and on scholars affiliated with it. But this week I’ve read Coase’s paper carefully twice, and I noticed something that I was surprised not to see mentioned in Battistoni’s writing. It is something that seems only very rarely mentioned in the secondary literature on Coase, but which I think is worth flagging and pondering.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;An exception is <span class="citation" data-cites="medema2009">Medema (<a href="#ref-medema2009" role="doc-biblioref">2009, p. 118n31</a>)</span>.</p></div></div><p>Relatively early in his paper, Coase writes:</p>
 <blockquote class="blockquote">
 <p>The economic problem in all cases of harmful effects is how to maximise the value of production. (p.&nbsp;15)</p>
 </blockquote>
@@ -259,9 +279,15 @@ window.Quarto = {
 <p>Still, it’s not hard to understand why it had the effect it did here, given that certain powerful and vested interests find quite congenial the narrow economic conception of value production that Coase routinely employed. And to be fair, “The Problem of Social Cost” is a long paper that is not much more fun to read than the corresponding chapter in Pigou’s <em>The Economics of Welfare</em>. So at least some readers can be forgiven for not getting to (or not being awake enough to register) Coase’s remark about the essential role of ethics near the very end. But possibly it could be interesting to ponder what might’ve happened if early eagle-eyed readers outside of the Chicago School orbit had stressed and explored that remark in contributions to the field that became law and economics.</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="1" role="list">
+<div id="ref-medema2009" class="csl-entry" role="listitem">
+Medema, S. G. 2009. <em>The Hesitant Hand: Taming Self-Interest in the History of Economic Ideas</em>, Princeton University Press.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
