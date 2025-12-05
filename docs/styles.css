@@ -14,10 +14,19 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
-h1 {
+/* Remove border from post title */
+.quarto-title-block h1 {
+  border-bottom: none;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0;
+}
+
+/* Keep border on content H1s */
+main h1 {
+  border-bottom: 1px solid #ddd;
   font-size: 1.8em;
-  border-bottom: 1px solid #ddd;  /* Add this line */
-  padding-bottom: 0.5em;           /* Add this line */
+  padding-bottom: 0.5em;
 }
 h2 {
   font-size: 1.5em;
