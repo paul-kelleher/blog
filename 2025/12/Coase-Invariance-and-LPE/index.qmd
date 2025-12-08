@@ -2,8 +2,7 @@
 title: "Coase, Invariance, and LPE"
 author: Paul Kelleher
 date: "2025-12-04"
-categories: [ethics, economics]
-
+categories: [ethics, economics, environment]
 ---
 
 There's an ongoing [symposium on the Law and Political Economy (LPE) Project's blog](https://lpeproject.org/symposia/free-gifts/) on Alyssa Battistoni's new book [*Free Gifts*](https://press.princeton.edu/books/hardcover/9780691263465/free-gifts?srsltid=AfmBOopoBnoOHxIyKJjYVcAOKfREEU1LqOLlkYC4JYaTSpMieKayw4t4). Both Battistoni's [opening piece](https://lpeproject.org/blog/in-the-shadow-of-commodification/), as well as Madison Condon's [piece](https://lpeproject.org/blog/is-climate-change-an-externality/), begin with Ronald Coase's 1960 paper, ["The Problem of Social Cost"](https://www.jstor.org/stable/724810). This piqued my interest because I recently gave a conference talk about the so-called "Coase Theorem" in which I was trying to correct an error that is common, and that lies at the heart of [a recent book](https://global.oup.com/academic/product/philosophical-foundations-of-climate-change-policy-9780197567982?cc=us&lang=en&) about climate change by moral and political philosopher Joseph Heath. Let me quickly state the error, and then return to Battistoni's discussion.
