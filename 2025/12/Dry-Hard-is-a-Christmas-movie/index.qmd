@@ -1,0 +1,70 @@
+---
+title: "Dry Hard is a Christmas Movie"
+author: Paul Kelleher
+date: "2025-12-15"
+categories: [personal]
+---
+
+(This is a quick re-posting of a [thread on BlueSky](https://bsky.app/profile/paulkelleher.net/post/3m7y6vdddak27).)
+
+Here's a little story about a big-time Christmas tree dad-error and a seemingly hopeless quest to fix it.
+
+Every year, out of respect for our original hardwood floors, I place the xmas tree stand on an Amazon box---so it won't scratch or otherwise mar.
+
+![Charlie admiring a Christmas tree](images/clipboard-2314924327.png){fig-alt="an undecorated xmas tree in a living room, held upright by an xmas tree stand that sits atop an amazon box. A big black lab lies next to the tree."}
+
+We tend to get our tree late in the season (rarely before December 15th), and we cut it down at a Christmas tree farm so that it's fresh enough to leave up for well into January. Sometimes it's up until MLK day. Indeed, we can leave the Christmas lights up til Febraury. [This is our place, we make the rules.](https://genius.com/17826987?)
+
+Anyway, when I first set up the tree, I place the tree skirt nicely in place so you can't see the stand at all.
+
+![A perfectly covered Christmas tree stand](images/clipboard-572103259.png){fig-alt="pic of tree skirt nicely in place so you can't see the stand at all"}
+
+But after I water the tree once, the skirt sags down so that you can see the stand underneath. My wife strongly dislikes this aesthetic. So one year she strongly...encouraged me not to leave it like that anymore.
+
+![A poorly coved Christmas tree stand](images/clipboard-1008940836.png){fig-alt="skirt sagging down so that you can see the stand underneath. A sign built into the stand reads \"FILL HERE\""}
+
+But knowing that I probably would habitually leave it like that if I regularly used the built-in water fill spot, I decided to fill from the very top of the stand so that I could add water without ever moving the skirt at all. Genius, right?!
+
+Nope.
+
+Since we get freshly cut trees, they can drink a lot---especially early on. And since we want to keep them up for a month or longer, I always want to give them as much water as they will drink. In 2022 that went horribly wrong....
+
+You see, I \*thought\* the tree was drinking all the water I was adding, but in fact some of it was pouring out of that FILL HERE watering spot without my knowing it---you know, because I was studiously keeping that spot covered by the tree skirt.
+
+Well, come like Jan 3, 2023, I wanted to vacuum up the needles that had fallen so far and so I pulled the tree skirt up and discovered, to my horror, that the Amazon box was soaked through and that there was a layer of water between it and the floor. I instantly knew this was [not]{.underline} [good]{.underline}.
+
+Skipping over the horror of the initial reaction, I was able to get several water remediation contractors out in short order to assess the situation. A moisture reader like this should not be reading 21 on 100 year old hardwoods.
+
+![A moisture detecting device](images/clipboard-4294168497.png){fig-alt="A moisture reader sitting on a hardwood floor. It reads 21"}
+
+The floor was wavy and warped ("cupped") and swelled with water. You couldn't walk over it with bare feet because certain corners of the warped boards were raised up at the edges.
+
+![swelled boards](images/clipboard-1831658522.png){fig-alt="swelled boards where they meet a threshold"}
+
+![a raised corner of a warped board](images/clipboard-2589003235.png){fig-alt="a raised corner of a warped hardwood board"}
+
+After meeting with several contractors, I hired one firm who'd proposed covering the affected area with a moisture-removing mat system.
+
+![A floor mat drying system](images/clipboard-2079236935.png){fig-alt="mats that are taped down with what looks like blue painters tape. Hoses attach to the mats"}
+
+![](images/clipboard-1519639715.png){fig-alt="Those mats are now covered with taped-down plastic that is attached to a machine in a corner"}
+
+Unfortunately, this didn't work. They pulled up the mats every two days or so, and the floors seemed to be mostly unchanged. Things didn't look promising.
+
+Before retiring this year my dad was a master carpenter in Bangor, Maine. I shared the pictures with him and he said that in his 50 year career he'd never seen hardwoods "lay back down" after an incident like this.
+
+But the owner of the water remediation firm remained undeterred. He didn't promise anything, but he seemed optimistic he could confound my father's expectations. So we moved to Phase 2.
+
+Phase 2 involved removing a layer of the subfloor from below (i.e. from the basement ceiling). Then a plastic channel was attached to this part of the basement ceiling and connected to a forced hot air heater that sat in the basement and ran for several days.
+
+![Cutting out a portion of the subfloor](images/clipboard-1305136371.png){fig-alt="A strip of the basement ceiling (which is the same as the first-floor subfloor) cut out to reveal another layer of subfloor that lies just below the hardwoods on the affect first-floor area."}
+
+![Heating the floor from underneath](images/clipboard-519687399.png){fig-alt="A heater in a basement with an air-filled channel running between it and the basement ceiling."}
+
+Well, long-story-short, that worked! After a few days the warped and wavy and spiky hardwoods laid back down and you could hardly tell anything had happened.
+
+![The result](images/clipboard-4002052085.png){fig-alt="flat hardwood floors leading into a dining room, with a kitchen in the background"}
+
+Of course, I'll never live this down in my family. It will remain dad lore forever. But I got it fixed, and maybe the method will help others who are told (by well-meaning, experienced, and reliable experts) that it's hopeless.
+
+Big thanks to [Certi-Dry in Madison, WI](https://certidry.com/)!
