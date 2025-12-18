@@ -57,7 +57,7 @@ Phase 2 involved removing a layer of the subfloor from below (i.e. from the base
 
 ![Cutting out a portion of the subfloor](images/clipboard-1305136371.png){fig-alt="A strip of the basement ceiling (which is the same as the first-floor subfloor) cut out to reveal another layer of subfloor that lies just below the hardwoods on the affect first-floor area."}
 
-![Heating the floor from underneath](images/clipboard-519687399.png){fig-alt="A heater in a basement with an air-filled channel running between it and the basement ceiling."}
+![Heating the floor from below](images/clipboard-519687399.png){fig-alt="A heater in a basement with an air-filled channel running between it and the basement ceiling."}
 
 Well, long-story-short, that worked! After a few days the warped and wavy and spiky hardwoods laid back down and you could hardly tell anything had happened.
 
